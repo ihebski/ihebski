@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![ihebski's github stats](https://github-readme-stats.vercel.app/api?username=ihebski&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="right" alt="GIF" src="https://i.imgur.com/zCqXNOD.gif" />
 
 <!--
 **ihebski/ihebski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
