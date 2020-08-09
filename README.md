@@ -1,5 +1,4 @@
-### Hi there 👋
-  <img align="right" alt="GIF" src="https://i.imgur.com/zCqXNOD.gif" />
+### Hi👋
 
 <!--
 **ihebski/ihebski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
