@@ -1,6 +1,6 @@
 ### Restricted ZONE 👾💀
 * Masks are mandatory here !😷
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ihebski&show_icons=true&theme=solarized-dark" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ihebski&show_icons=true&theme=react" width="380">
 <h2>About me</h2>
 <p><em>Security Operations Engineer (⌐■_■) | Pentester | Bughunter <br>
 </em></p>
