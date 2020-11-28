@@ -5,5 +5,4 @@
 <p><em>Security Operations Engineer (⌐■_■) | Pentester | Bughunter <br>
 </em></p>
 
-[![GitHub Ihebski](https://img.shields.io/github/followers/ihebski?label=follow%20github&style=flat-square)](https://github.com/ihebski)
-![Twitter Follow](https://img.shields.io/twitter/follow/ih3bski?style=social)(https://twitter.com/ih3bski)
+[![GitHub Ihebski](https://img.shields.io/github/followers/ihebski?label=follow%20github&style=flat-square)](https://github.com/ihebski) [![Twitter Ihebski](https://img.shields.io/twitter/follow/ih3bski?style=social)](https://twitter.com/ih3bski)
