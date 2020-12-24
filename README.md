@@ -8,7 +8,5 @@ Defunding at day 🛡 breaking things at night 👿 <br></p>
 
 [![GitHub Ihebski](https://img.shields.io/github/followers/ihebski?label=follow%20github&style=flat-square)](https://github.com/ihebski) [![Twitter Ihebski](https://img.shields.io/twitter/follow/ih3bski?style=social)](https://twitter.com/ih3bski)
 <br>
-
-<p align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ihebski&theme=nord&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
