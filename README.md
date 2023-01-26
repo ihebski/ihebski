@@ -6,7 +6,7 @@
   
 Defunding at day 🛡 breaking things at night 👿 <br></p>
 
-<img src="https://komarev.com/ghpvc/?username=ihebski&style=flat&color=blue" alt=umararfeen/> [![GitHub Ihebski](https://img.shields.io/github/followers/ihebski?label=follow%20github&style=flat-square)](https://github.com/ihebski) [![Twitter Ihebski](https://img.shields.io/twitter/follow/ih3bski?style=social)](https://twitter.com/ih3bski)
+<img src="https://komarev.com/ghpvc/?username=ihebski&style=flat&color=blue" alt=umararfeen/> [![GitHub Ihebski](https://img.shields.io/github/followers/ihebski?label=follow%20github&style=flat-square)](https://github.com/ihebski)
 <br>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ihebski&theme=nord&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
