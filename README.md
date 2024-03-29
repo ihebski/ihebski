@@ -2,7 +2,7 @@
 * Masks are mandatory here !😷
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ihebski&show_icons=true&theme=react" width="380">
 <h2>About me</h2>
-<p>Sr. Vulnerability assessment analyst (⌐■_■) | Pentester/Bughunter @synackRedTeam
+<p>Security Engineer (⌐■_■) | Pentester/Bughunter @synackRedTeam
   
 Defunding at day 🛡 breaking things at night 👿 <br></p>
 
